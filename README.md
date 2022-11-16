@@ -13,7 +13,7 @@ When you press the navigation link on the top right it will take you to the spec
 
 The following image shows the web application's appearance and functionality:
 
-![alt text](/assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 
